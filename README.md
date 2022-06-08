@@ -1,4 +1,4 @@
-# delivery
+# delivery api 만들기
 
 1. 음식점 등록 및 조회
     - 음식점 정보 입력받아 등록
