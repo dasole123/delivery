@@ -446,6 +446,9 @@ class FoodIntegrationTest {
     @Getter
     @Setter
     @Builder
+    @NoArgsConstructor
+    @AllArgsConstructor
+    
     static class FoodDto {
         private Long id;
         private String name;
