@@ -11,9 +11,8 @@ import lombok.Setter;
 
 public class FoodRequestDto {
 
-    private final String name;
-    private final int price;
+    private String name;
+    private int price;
 
-//    private List<FoodRequestDto> foodRequestDtoList;
 
 }
